@@ -23,7 +23,9 @@ In order to complete this challenge, I applied the knowledge seen in class, as w
 
 Starter code retrieved from: https://github.com/coding-boot-camp/friendly-parakeet
 
+<h2>Live URL</h2>
 
+https://chemaking13.github.io/Challenge3-PasswordGenerator/
 
 <h2>Preview</h2>
 
